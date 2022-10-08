@@ -27,8 +27,8 @@ The model we train is a neural language model. It has a few unique characteristi
 * It leans the representation at the same time as learning the model.
 * It learns to predict the probability for the next word using the context of the last 100 words.
 
-We use:
--> An Embedding Layer to learn the representation of words.
+We use: <br>
+-> An Embedding Layer to learn the representation of words. <br>
 -> Long Short-Term Memory (LSTM) recurrent neural network to learn to predict words based on their context.
 
 To run all the code in order run:
