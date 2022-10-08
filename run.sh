@@ -1,0 +1,3 @@
+python3 1_data_preparation.py
+python3 2_train_model.py
+python3 3_text_generator.py
