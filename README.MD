@@ -8,8 +8,8 @@ The language model is statistical and will predict the probability of each word 
 -> We transform  raw text into sequences of 100 input words to 1 output word, ready to fit a model.
 
 ## Data source 
-The text data used to train our model is the famous Republic book by  Greek philosopher Plato. You can download the text from [Project Gutenberg website](http://www.gutenberg.org/cache/epub/1497/pg1497.txt)
-This data is in the republic_cleant.txt file.
+The text data used to train our model is the famous Republic book by  Greek philosopher Plato. You can download the text from [Project Gutenberg website](http://www.gutenberg.org/cache/epub/1497/pg1497.txt).
+This data is in the `republic_cleant.txt` file. <br>
 NB: You can use any text data of your choice. Be sure to modify the text cleaning code to fit your case, although the text cleaning code fits most raw data.
 
 ## Data Preparation
